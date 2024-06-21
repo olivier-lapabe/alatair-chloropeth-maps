@@ -1,7 +1,7 @@
 # Altaïr Chloropeth Maps
 
-## Visualization 2
-The visualization has been implemented at the end of the Jupyter notebook: `Chloropeth maps in Altair.ipynb`.
+## Visualisation 2
+La visualiation 2 a été implementée à la fin du Jupyter notebook: `Chloropeth maps in Altair.ipynb`.
 La carte choroplèthe permet de visualiser les tendances départementales/régionales de manière claire et intuitive.  
 Elle aide à identifier les variations géographiques dans la popularité des prénoms et à observer les tendances sur différentes périodes.  
 Les couleurs permettent de discerner facilement les zones de haute et basse popularité.

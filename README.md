@@ -1,4 +1,5 @@
 # Altaïr Chloropeth Maps
+Guillaume Bocquillon, Guillaume Cazottes, Lucas Guerrot, Olivier Lapabe-Goastat
 
 ## Visualisation 2
 La visualiation 2 a été implementée à la fin du Jupyter notebook: `Chloropeth maps in Altair.ipynb`.

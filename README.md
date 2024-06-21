@@ -1,4 +1,4 @@
-# Altaït Chloropeth Maps
+# Altaïr Chloropeth Maps
 
 ## Visualization 2
 The visualization has been implemented at the end of the Jupyter notebook: `Chloropeth maps in Altair.ipynb`.
